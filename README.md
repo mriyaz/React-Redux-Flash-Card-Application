@@ -16,9 +16,6 @@ vi public/index.html
 npm run build
 cd public && live-server --port=1111 --entry-file=index.html
 
-../node_modules/live-server/live-server.js --port=1111 --entry-file=index.html
-
-
 npm i --save react redux react-dom
 
 npm i --save react-redux
