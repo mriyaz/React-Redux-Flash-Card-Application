@@ -1,3 +1,8 @@
+
+```
+A modern web app creating,managing flashcards for learning across domains with React and Redux
+
+```
 ## Commands
 ```
 npm init --yes
@@ -6,7 +11,7 @@ npm i --save live-server
 
 mkdir public src
 touch src/App.js
-vi pulic/index.html
+vi public/index.html
 
 npm run build
 cd public && live-server --port=1111 --entry-file=index.html
